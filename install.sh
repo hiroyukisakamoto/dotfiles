@@ -6,7 +6,7 @@ set -eu
 THIS_DIR=$HOME/dotfiles
 
 if [ ! -d "$THIS_DIR" ]; then
-    git clone https://github.com/xxxxxxx/dotfiles.git "$THIS_DIR"
+    git clone https://github.com/hiroyukisakamoto/dotfiles.git "$THIS_DIR"
 else
     echo "$THIS_DIR already downloaded. Updating..."
     cd "$THIS_DIR"
