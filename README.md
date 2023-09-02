@@ -4,5 +4,4 @@
 
 ```bash
 bash -c "$(curl -L https://raw.githubusercontent.com/hiroyukisakamoto/dotfiles/master/install.sh)"
-# dotfiles
 ```
